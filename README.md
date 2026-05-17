@@ -40,10 +40,25 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
+<!-- 优化后的 Connect & Footer 部分 -->
 <div align="center">
   <br/>
-  <a href="https://github.com/hyzenciaga">
-    <img src="https://img.shields.io/badge/Connect-@Hyzenciaga-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  
+  <a href="https://github.com/hyzenciaga" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@hyzenciaga-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
+  <a href="https://hexahaix.pages.dev/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-hexahaix.dev-000000?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Website"/>
+  </a>
+  &nbsp;
+  <a href="mailto:steve.xuhaixiang@icloud.com">
+    <img src="https://img.shields.io/badge/Email-steve.xuhaixiang%40icloud.com-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
+  </a>
+
+  <br/><br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hyzenciaga" alt="访客数量" />
+  <br/><br/>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=100&section=footer" width="100%" />
 </div>
